@@ -3,6 +3,8 @@ ECOCARDIOGRAFIA DOPPLER: Explorando Novas Fronteiras em Diagnósticos Cardíacos
 
 # Sistema de Análise de Ecocardiografia com Inteligência Artificial (CardioIAVision)
 
+Express(NodeJs) + NextJs(reactjs) + TensorFlowJs(MachineLearning) + CornerStoneJs (web imaging platform)
+
 ## 1. Visão Geral do Projeto
 ### 1.1 Objetivo
 Desenvolver um sistema de software que utilize inteligência artificial para auxiliar na análise e interpretação de exames de ecocardiografia Doppler, visando:
